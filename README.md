@@ -1,4 +1,4 @@
-# Machine_Learning_in_Fintech
+# Machine Learning in Fintech
 
 ## Some useful code
 * Fetch data from TWSE <br />
