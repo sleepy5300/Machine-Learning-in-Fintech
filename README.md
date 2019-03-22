@@ -14,4 +14,3 @@
 * Fetch data from TWSE <br />
   1. Fetch_Price.py <br />
   2. Fetch_Volume.py <br />
-  3. Price_Forecasting.py <br />
